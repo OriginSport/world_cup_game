@@ -50,7 +50,10 @@
 | 2089 | Senegal | Colombia | 165104 | 108587 | senegal-colombia-95634
 | 2090 | Panama | Tunisia | 165105 | 108580 | panama-tunisia-95633
 | 2091 | England | Belgium | 165110 | 108581 | england-belgium-95631
-
+|3433 | France | Argentina | 165119 | 108598 | france-argentina-95636
+| 3434 | Uruguay | Portugal | 165123 | 108599 | uruguay-portugal-95635
+| 3435 | Spain | Russia | 165122 | 108597 | spain-russia-95637
+| 3436 | Croatia | Denmark | 165121 | 108596 | croatia-denmark-95638
 
 
 
