@@ -54,6 +54,7 @@
 | 3434 | Uruguay | Portugal | 165123 | 108599 | uruguay-portugal-95635
 | 3435 | Spain | Russia | 165122 | 108597 | spain-russia-95637
 | 3436 | Croatia | Denmark | 165121 | 108596 | croatia-denmark-95638
-
+| 3437 | Brazil | Mexico | 165118 | 108595 | brazil-mexico-95639
+| 3438 | Sweden | Switzerland | 165117 | 108593 | sweden-switzerland-95641
 
 
