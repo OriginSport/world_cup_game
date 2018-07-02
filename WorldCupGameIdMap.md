@@ -58,4 +58,5 @@
 | 3438 | Sweden | Switzerland | 165117 | 108593 | sweden-switzerland-95641
 | 3439 | Belgium | Japan | 165120 | 108594 | belgium-japan-95640
 | 3440 | Colombia | England | 165124 | 108592 | colombia-england-95642
-
+| 3441 | Uruguay | France | 165127 | 108603 | uruguay-france-95643
+| 3442 | Russia | Croatia | 165128 | 108601 | russia-croatia-95645
