@@ -60,3 +60,4 @@
 | 3440 | Colombia | England | 165124 | 108592 | colombia-england-95642
 | 3441 | Uruguay | France | 165127 | 108603 | uruguay-france-95643
 | 3442 | Russia | Croatia | 165128 | 108601 | russia-croatia-95645
+| 3443 | Brazil | Belgium | 165126 | 108602 | brazil-belgium-95644
