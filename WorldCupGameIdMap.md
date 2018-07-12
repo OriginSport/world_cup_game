@@ -64,3 +64,5 @@
 | 3444 | Sweden | England | 165125 | 108600 | sweden-england-95646
 | 3445 | France | Belgium | 165130 | 108605 | france-belgium-95647
 | 3446 | Croatia | England | 165129 | 108604 | croatia-england-95648
+| 3447 | Belgium | England | 165131 | 108607 | belgium-england-95649
+| 3448 | France | Croatia | 165132 | 108606 | france-croatia-95650
